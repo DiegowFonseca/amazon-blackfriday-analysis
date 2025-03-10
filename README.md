@@ -19,6 +19,21 @@ A Black Friday é um dos eventos de compras mais movimentados do ano, mas como e
 
 ---
 
+
+
+## 🚀 Como executar o projeto 
+
+### 🛠️ **Pré-requisitos**  
+Certifique-se de ter o **Python 3.x** instalado, junto com os pacotes necessários.  
+
+Instale as dependências com:  
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
 ## 🏁 Como rodar o código
 
 ### 1️⃣ Coletar dados da Amazon (Web Scraping)
