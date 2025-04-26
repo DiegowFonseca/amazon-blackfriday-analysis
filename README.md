@@ -34,9 +34,9 @@ pip install -r requirements.txt
 
 ---
 
-## 🏁 Como rodar o código
+## Como rodar o código
 
-### 1️⃣ Coletar dados da Amazon (Web Scraping)
+### 1 Coletar dados da Amazon (Web Scraping)
 Execute o script de raspagem de dados de livros:
 
 ```bash
@@ -54,7 +54,7 @@ python src/estraction/products_scraper.py
 Os dados serão salvos em  **data/data_raw/produtos_amazon**
 
 
-### 2️⃣ Fazer a transformação dos dados e o carregamento em um arquivo csv
+### 2 Fazer a transformação dos dados e o carregamento em um arquivo csv
 Execute o script de transformação dos dados:
 
 ```bash
@@ -64,7 +64,7 @@ python src/main.py
 Os dados serão salvos em  **data/data_processed/produtos.csv**
 
 
-### 3️⃣ Análise dos dados
+### 3 Análise dos dados
 Após coletar os dados e transformar, execute a análise exploratória:
 
 ```bash
