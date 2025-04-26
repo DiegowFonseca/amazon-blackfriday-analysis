@@ -1,13 +1,13 @@
-# 🛒 Análise do Impacto da Black Friday nos Produtos Mais Vendidos da Amazon 
+# Análise do Impacto da Black Friday nos Produtos Mais Vendidos da Amazon 
 
-## 📌 Descrição  
+## Descrição  
 Este projeto analisa o impacto da Black Friday sobre os produtos mais vendidos na Amazon, investigando variações de preços, mudanças no ranking de vendas e padrões de consumo antes e durante o evento.  
 
 Os dados foram coletados via **web scraping com Selenium**, considerando os **100 produtos mais vendidos de cinco categorias**, durante **14 dias (13 dias antes da Black Friday e no próprio dia da Black Friday)**.  
 
 ---
 
-## 🎯 Problema a ser resolvido  
+## Problema a ser resolvido  
 A Black Friday é um dos eventos de compras mais movimentados do ano, mas como ela realmente afeta os preços e a popularidade dos produtos? Este projeto busca responder perguntas como:  
 
 
@@ -21,9 +21,9 @@ A Black Friday é um dos eventos de compras mais movimentados do ano, mas como e
 
 
 
-## 🚀 Como executar o projeto 
+## Como executar o projeto 
 
-### 🛠️ **Pré-requisitos**  
+### **Pré-requisitos**  
 Certifique-se de ter o **Python 3.x** instalado, junto com os pacotes necessários.  
 
 Instale as dependências com:  
@@ -75,7 +75,7 @@ Isso gerará gráficos e estatísticas para avaliar padrões nos preços, rankin
 
 ---
 
-## 📌 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **Python**
 - **Selenium** (Web Scraping)
@@ -85,9 +85,9 @@ Isso gerará gráficos e estatísticas para avaliar padrões nos preços, rankin
 
 ---
 
-## 📈 Análises e Conclusões
+## Análises e Conclusões
 
-### 🛒 Variação dos preços
+### Variação dos preços
 
 - Quando analisamos todos os produtos, **não houve uma variação significativa nos preços durante a Black Friday**, exceto para **eletrônicos**, onde os preços médios aumentaram nos dias próximos à Black Friday.
 
@@ -96,14 +96,14 @@ Isso gerará gráficos e estatísticas para avaliar padrões nos preços, rankin
 - **Livros foram a única categoria sem grandes variações de preço ao longo dos dias.**
 
 
-### 🔝 Popularidade dos produtos
+### Popularidade dos produtos
 
 - Alguns produtos mantiveram sua posição de destaque ao longo dos 14 dias analisados. O **Echo Dot 5ª geração** ficou em **1º lugar** na categoria de eletrônicos durante todo o período, enquanto o **Echo Pop** ficou em 2º.
 
 - O **Vonder Banqueta Plástica** subiu no ranking e se tornou o **número 1** na categoria de mobília no dia da Black Friday.
 
 
-### 📊 Categorias mais impactadas
+### Categorias mais impactadas
 
 - **A categoria de mobília teve um desempenho melhor na Black Friday**, subindo no ranking médio.
 
@@ -112,7 +112,7 @@ Isso gerará gráficos e estatísticas para avaliar padrões nos preços, rankin
 - **A categoria de moda perdeu posições** no dia da Black Friday.
 
 
-### 💰 Correlação entre preço e ranking
+### Correlação entre preço e ranking
 
 - Quando analisamos a **correlação de Pearson**, não encontramos uma relação forte entre **preço** e **posição no ranking**.
 
@@ -121,7 +121,7 @@ Isso gerará gráficos e estatísticas para avaliar padrões nos preços, rankin
 - **No dia da Black Friday, essa relação foi menos evidente, com produtos mais caros subindo para posições mais altas**.
 
 
-### 📅 Influência do dia da semana
+### Influência do dia da semana
 
 - A partir do dia **26 de novembro (três dias antes da Black Friday)**, os preços começaram a subir.
 
@@ -129,26 +129,26 @@ Isso gerará gráficos e estatísticas para avaliar padrões nos preços, rankin
 
 ---
 
-## 📌 Sugestões para os próximos anos
+## Sugestões para os próximos anos
 
-### 📌 Análise estratégica por categoria:
+### Análise estratégica por categoria:
 - Focar em categorias que tiveram alta estabilidade no ranking (ex: eletrônicos e mobília) para entender como essas marcas promovem seus produtos.
 
 - Estudar o comportamento de categorias que perderam relevância, como fashion, para identificar possíveis fatores que impactaram suas vendas.
 
-### 📌 Estudo do impacto do marketing e promoções:
+### Estudo do impacto do marketing e promoções:
 - Explorar quais fatores influenciam produtos a permanecerem no top 10 e como isso pode ser replicado para outras categorias.
 
 - Analisar os produtos que entraram e saíram do ranking para identificar padrões de comportamento dos consumidores.
 
-### 📌 Aprofundamento na relação preço vs. ranking:
+### Aprofundamento na relação preço vs. ranking:
 - Investigar por que produtos mais baratos perderam posições no ranking na Black Friday.
 
 - Testar se descontos agressivos impactam diretamente a colocação no ranking ou se há outros fatores envolvidos.
 
 ---
 
-## 📚 Referências
+## Referências
 
 - [Amazon Best Sellers](https://www.amazon.com.br/gp/bestsellers/?ref_=nav_cs_bestsellers)
 
@@ -158,14 +158,14 @@ Isso gerará gráficos e estatísticas para avaliar padrões nos preços, rankin
 
 ---
 
-## 📜 Licença
+## Licença
 
 Este projeto está sob a licença **MIT**.
 
 ---
 
-## 🔍 Autor
+## Autor
 
-📌 **Diego Fonseca**
+ **Diego Fonseca**
 
-📧 **diegowfonseca14@gmail.com**
+ **diegowfonseca14@gmail.com**
