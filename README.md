@@ -91,7 +91,11 @@ Isso gerará gráficos e estatísticas para avaliar padrões nos preços, rankin
 
 - Quando analisamos todos os produtos, **não houve uma variação significativa nos preços durante a Black Friday**, exceto para **eletrônicos**, onde os preços médios aumentaram nos dias próximos à Black Friday.
 
+![Variação do Preço Médio por Categoria e Dia da Semana](assets/imagem1.png)
+
 - Para os produtos **Top 10**, houve **um aumento significativo nos preços médios na Black Friday**, em várias categorias.
+
+![Variação do Preço Médio por Categoria e Dia da Semana dos Top 10](assets/imagem2.png)
 
 - **Livros foram a única categoria sem grandes variações de preço ao longo dos dias.**
 
@@ -102,6 +106,8 @@ Isso gerará gráficos e estatísticas para avaliar padrões nos preços, rankin
 
 - O **Vonder Banqueta Plástica** subiu no ranking e se tornou o **número 1** na categoria de mobília no dia da Black Friday.
 
+![Variação do Ranking dos Produtos ao longo do Tempo](assets/imagem3.png)
+
 
 ### Categorias mais impactadas
 
@@ -111,14 +117,22 @@ Isso gerará gráficos e estatísticas para avaliar padrões nos preços, rankin
 
 - **A categoria de moda perdeu posições** no dia da Black Friday.
 
+![Comparação do Ranking Médio por Categoria: Antes e Durante a Black Friday](assets/imagem4.png)
+
 
 ### Correlação entre preço e ranking
 
 - Quando analisamos a **correlação de Pearson**, não encontramos uma relação forte entre **preço** e **posição no ranking**.
 
+![Relação entre Preço e Ranking Antes e Na Black Friday](assets/imagem5.png)
+
 - **Nos dias antes da Black Friday, os produtos mais baratos tendiam a ocupar posições melhores no ranking**.
 
+![Preço Médio por Ranking Antes da Black Friday](assets/imagem6.png)
+
 - **No dia da Black Friday, essa relação foi menos evidente, com produtos mais caros subindo para posições mais altas**.
+
+![Preço Médio por Ranking no Dia da Black Friday](assets/imagem7.png)
 
 
 ### Influência do dia da semana
@@ -126,6 +140,8 @@ Isso gerará gráficos e estatísticas para avaliar padrões nos preços, rankin
 - A partir do dia **26 de novembro (três dias antes da Black Friday)**, os preços começaram a subir.
 
 - **O maior preço médio de vendas foi registrado no dia da Black Friday**.
+
+![Preço Médio por Dia da Semana](assets/imagem8.png)
 
 ---
 
